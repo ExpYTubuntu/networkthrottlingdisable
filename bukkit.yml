@@ -1,2 +1,3 @@
 settings:
+  #Keep this dissabled (at -1), otherwise you may have problems connecting to your server
   connection-throttle: -1
